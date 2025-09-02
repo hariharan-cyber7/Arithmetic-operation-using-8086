@@ -90,7 +90,7 @@ END
 
 
 #### Program
-'''
+```asm
 CODE SEGMENT
 ASSUME CS:CODE,DS:CODE
 ORG 1000H
