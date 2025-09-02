@@ -116,7 +116,11 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|        1200             |                          |
+|        1201             |           1204           |
+|        1202             |           1205           |
+|        1203             |                          |
+
 
 #### Manual Calculations
 
@@ -167,7 +171,11 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1200            |           1204           |
+|         1201            |           1205           |
+|         1202            |           1206           |
+|         1203            |           1207           |
+
 
 #### Manual Calculations
 
@@ -215,7 +223,11 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1200            |           1204           |
+|         1201            |           1205           |
+|         1202            |           1206           |
+|         1203            |           1207           |
+
 
 #### Manual Calculations
 
