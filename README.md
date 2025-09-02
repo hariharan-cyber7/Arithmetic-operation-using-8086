@@ -65,7 +65,8 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-02 at 19 40 46_d77b58d5](https://github.com/user-attachments/assets/7fa977e2-1d0c-4e40-9d92-b26844b07c49)
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/558f6d82-c5e1-4365-baba-6ec65ac65ac2" />
+
 
 
 
@@ -125,7 +126,8 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-02 at 19 41 11_f1be9d86](https://github.com/user-attachments/assets/90c09467-ad1d-4d5d-b23a-8d4100ed2ee6)
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/dfbb39f1-9b82-495a-a7e9-28fc7860e010" />
+
 
 
 ---
@@ -181,7 +183,8 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-02 at 19 41 35_e8bef5ec](https://github.com/user-attachments/assets/20017e1b-2dd8-41b7-a8a9-f1c5a6941ff8)
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/2cf2b7b8-ddc0-4aa6-9ef4-09504d0cad37" />
+
 
 
 ---
@@ -234,7 +237,8 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-02 at 19 42 36_bd5aa91f](https://github.com/user-attachments/assets/511ca80f-e2e0-4e51-a471-b8abf849035d)
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/f9ce2e8e-70d9-4bd6-bcf2-58451e9a3b3f" />
+
 
 
 ---
